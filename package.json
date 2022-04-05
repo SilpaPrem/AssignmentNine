@@ -1,0 +1,17 @@
+{
+  "name": "assignmentnine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": ".\\node_modules\\.bin\\mocha .\\specs\\partC.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mochawesome": "^7.1.3"
+  }
+}
