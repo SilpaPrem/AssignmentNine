@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": ".\\node_modules\\.bin\\mocha .\\specs\\partC.js"
+    "test": ".\\node_modules\\.bin\\mocha .\\specs"
   },
   "keywords": [],
   "author": "",
