@@ -15,7 +15,6 @@ describe('Scenario_1_Part C assignment',()=>{
     it('Test003_Filter in the list',()=>{
         let name = ["Jackson","Rob","Jack","Wilson","John"]
         let newName = name.filter((fil)=> fil.includes('Jack'))
-        console.log(newName)
         let count = newName.length
         console.log(newName)
        assert.equal(count,2)
