@@ -1,4 +1,4 @@
 {
     "reporter":"mochawesome",
-    "specs":"/*.js"
+    "spec":"specs/*.js"
 }
