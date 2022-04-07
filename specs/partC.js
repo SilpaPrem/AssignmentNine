@@ -18,6 +18,6 @@ describe('Scenario_1_Part C assignment',()=>{
         let count = newName.length
         console.log(newName)
        assert.equal(count,2)
-       // added
+       // added comments added
     })
 })
